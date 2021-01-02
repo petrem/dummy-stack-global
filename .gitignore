@@ -1,0 +1,16 @@
+*.orig
+*~
+*.#*
+*.dyn_hi
+*.dyn_o
+*.hi
+*.o
+.stack-work
+.depend
+*.out
+*.dSYM
+dist-newstyle
+*.lock
+.idea
+*.db
+.benchmarks
